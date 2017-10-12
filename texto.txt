@@ -1,7 +1,11 @@
 probando el primer commit de algo
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 cambio en 1
 =======
 asddassdaasd
 >>>>>>> 90d2799c6f39240d27d0380442fb156cc9ec050c
+=======
+saraza
+>>>>>>> cf16a5d0d5a838092977bff6c7dee7fbf076f57b
